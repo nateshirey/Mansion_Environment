@@ -1,0 +1,56 @@
+# Blender MTL File: 'Modelling8.blend'
+# Material Count: 5
+
+newmtl China_Gold
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.543646 0.640000 0.100245
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\u0800347\Documents\GitHub\Mansion_Environment\Materials\chinese pots.png
+
+newmtl China_Pattern
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.245057 0.176425 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\u0800347\Documents\GitHub\Mansion_Environment\Materials\chinese pots.png
+
+newmtl China_White
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\u0800347\Documents\GitHub\Mansion_Environment\Materials\chinese pots.png
+
+newmtl China_White_NONE
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Tea
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.079734 0.027863 0.015058
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\u0800347\Documents\GitHub\Mansion_Environment\Materials\chinese pots.png
